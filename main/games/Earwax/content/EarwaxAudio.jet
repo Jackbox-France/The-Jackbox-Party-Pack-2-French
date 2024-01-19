@@ -1,0 +1,5471 @@
+{
+  "episodeid": 1234,
+  "content": [
+    {
+      "x": false,
+      "name": "déodorant/peinture en bombe",
+      "short": "déodorant/peinture en bombe",
+      "id": 22199,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "dégagement d'air comprimé",
+      "short": "dégagement d'air comprimé",
+      "id": 22222,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnerie de buzzer",
+      "short": "sonnerie de buzzer",
+      "id": 22241,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "alarme de voiture/intrus",
+      "short": "alarme de voiture/intrus",
+      "id": 22242,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnerie de réveil analogique",
+      "short": "sonnerie de réveil analogique",
+      "id": 22248,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflement de dauphin",
+      "short": "sifflement de dauphin",
+      "id": 22250,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "tissu déchiré",
+      "short": "tissu déchiré",
+      "id": 22851,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse vidée",
+      "short": "flûte à coulisse vidée",
+      "id": 23004,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chien lapant sa nourriture",
+      "short": "chien lapant sa nourriture",
+      "id": 25719,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "accordéon jovial",
+      "short": "accordéon jovial",
+      "id": 22197,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sac en papier qu'on ouvre",
+      "short": "sac en papier qu'on ouvre",
+      "id": 23507,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hurlement de terreur (homme)",
+      "short": "hurlement de terreur",
+      "id": 25720,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rot agaçant",
+      "short": "rot agaçant",
+      "id": 25708,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gros ballon en caoutchouc'",
+      "short": "gros ballon en caoutchouc",
+      "id": 25718,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "kazoo déjanté",
+      "short": "kazoo déjanté",
+      "id": 25670,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet (lent & constant)",
+      "short": "pet (lent & constant)",
+      "id": 25743,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ventouse de toilettes",
+      "short": "ventouse de toilettes",
+      "id": 25721,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rasoir électrique",
+      "short": "rasoir électrique",
+      "id": 23508,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "troubles à la selle",
+      "short": "troubles à la selle",
+      "id": 25744,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bêlement bizarre",
+      "short": "bêlement bizarre",
+      "id": 23863,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“tada!” (homme)",
+      "short": "“tada!”",
+      "id": 24026,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Mm, délicieux” (homme)",
+      "short": "“Mm, délicieux”",
+      "id": 24027,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Qui veut un hot dog?” (homme)",
+      "short": "“Qui veut un hot dog”",
+      "id": 24028,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Wow” (homme)",
+      "short": "“Wow”",
+      "id": 24029,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Vous êtes viré” (homme)",
+      "short": "“Vous êtes viré”",
+      "id": 24030,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rugissement d'un lion",
+      "short": "rugissement d'un lion",
+      "id": 23506,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "marche/arrêt d'une tondeuse",
+      "short": "marche/arrêt d'une tondeuse",
+      "id": 23505,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bourdonnement d'insecte",
+      "short": "bourdonnement d'insecte",
+      "id": 23504,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri sous l'eau",
+      "short": "cri sous l'eau",
+      "id": 23503,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Fais péter!” (homme)",
+      "short": "“Fais péter!”",
+      "id": 23502,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "s'éclaircit la voix (homme)",
+      "short": "s'éclaircit la voix",
+      "id": 25690,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cloche d'église",
+      "short": "cloche d'église",
+      "id": 25689,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Awww” (homme)",
+      "short": "“Awww”",
+      "id": 23501,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hurlements de foule",
+      "short": "hurlements de foule",
+      "id": 25692,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“100” (homme)",
+      "short": "“100”",
+      "id": 23500,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "enfants disant “Awww?”",
+      "short": "enfants disant “Awww?”",
+      "id": 25688,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon foireux",
+      "short": "klaxon foireux",
+      "id": 25687,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "jouet qui couine",
+      "short": "jouet qui couine",
+      "id": 25694,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“2020” (femme)",
+      "short": "“2020”",
+      "id": 23498,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri de guerre (homme)",
+      "short": "cri de guerre",
+      "id": 25693,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "horrible morceau de piano",
+      "short": "horrible morceau de piano",
+      "id": 25686,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hélicoptère",
+      "short": "hélicoptère",
+      "id": 23496,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "scie manuelle",
+      "short": "scie manuelle",
+      "id": 23493,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "riff de guitare de fin de morceaux",
+      "short": "riff de guitare de fin de morceaux",
+      "id": 23492,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rimshot de batterie",
+      "short": "rimshot de batterie",
+      "id": 23491,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "clavier mécanique",
+      "short": "clavier mécanique",
+      "id": 23489,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bip de réveil digital",
+      "short": "bip de réveil digital",
+      "id": 22247,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rebond de balle de basketball",
+      "short": "rebond de balle de basketball",
+      "id": 23487,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflet de policier",
+      "short": "sifflet de policier",
+      "id": 23003,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflet kitsch et marimba",
+      "short": "sifflet kitsch et marimba",
+      "id": 23000,
+      "categories": [
+        "Music",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "arrêt de l'alarme d'une voiture",
+      "short": "arrêt de l'alarme d'une voiture",
+      "id": 22243,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflement “Regarde moi ça!”",
+      "short": "sifflement “Regarde moi ça!”",
+      "id": 22999,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hurlement de loup",
+      "short": "hurlement de loup",
+      "id": 23023,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflement (ouh là là)",
+      "short": "sifflement",
+      "id": 23025,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "brisement d'os/arbre écrasé",
+      "short": "brisement d'os/arbre écrasé",
+      "id": 23026,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "porte en bois enfoncée d'un coup de pied",
+      "short": "porte en bois enfoncée d'un coup de pied",
+      "id": 23028,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "scier du bois à la main",
+      "short": "scier du bois à la main",
+      "id": 23029,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando grave au xylophone",
+      "short": "glissando grave au xylophone",
+      "id": 23031,
+      "categories": [
+        "Music",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando aigu au xylophone",
+      "short": "glissando aigu au xylophone",
+      "id": 23032,
+      "categories": [
+        "Music",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fermeture éclair remontée",
+      "short": "fermeture éclair remontée",
+      "id": 23034,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "petite fermeture éclair remontée",
+      "short": "petite fermeture éclair remontée",
+      "id": 23035,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "boing de ressort de cartoon",
+      "short": "boing de ressort de cartoon",
+      "id": 23046,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "verre brisé",
+      "short": "verre brisé",
+      "id": 23084,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon en plastique",
+      "short": "klaxon en plastique",
+      "id": 23115,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse vidée bizarrement",
+      "short": "flûte à coulisse vidée bizarrement",
+      "id": 23006,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse vidée et remplie",
+      "short": "flûte à coulisse vidée et remplie",
+      "id": 23007,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse remplie en tremblotant",
+      "short": "flûte à coulisse remplie en tremblotant",
+      "id": 23008,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflet de locomotive",
+      "short": "sifflet de locomotive",
+      "id": 23010,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "corne de brume de bateau à vapeur",
+      "short": "corne de brume de bateau à vapeur",
+      "id": 23013,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflement provocateur",
+      "short": "sifflement provocateur",
+      "id": 23014,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "siffler pour appeler un chien",
+      "short": "siffler pour appeler un chien",
+      "id": 23015,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflet en plastique à bille",
+      "short": "sifflet en plastique à bille",
+      "id": 23016,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "carillons au vent",
+      "short": "carillons au vent",
+      "id": 23018,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "vent funeste",
+      "short": "vent funeste",
+      "id": 23021,
+      "categories": [
+        "weather"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflement “Par ici!”",
+      "short": "sifflement “Par ici!”",
+      "id": 22997,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflement “coucou suisse”",
+      "short": "sifflement “coucou suisse”",
+      "id": 22996,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "corne de brume",
+      "short": "corne de brume",
+      "id": 22995,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "claquement de fouet",
+      "short": "claquement de fouet",
+      "id": 22992,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chien lapant très vite",
+      "short": "chien lapant très vite",
+      "id": 22990,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "tissu déchiré",
+      "short": "tissu déchiré",
+      "id": 22850,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aspiration",
+      "short": "aspiration",
+      "id": 22963,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "séparation de velcro",
+      "short": "séparation de velcro",
+      "id": 22964,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": true,
+      "name": "“vibro” en marche",
+      "short": "“vibro” en marche",
+      "id": 22965,
+      "categories": [
+        "sexual"
+      ]
+    },
+    {
+      "x": false,
+      "name": "musique de jeu vidéo",
+      "short": "musique de jeu vidéo",
+      "id": 22967,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "violon pizzicato aigu",
+      "short": "violon pizzicato aigu",
+      "id": 22968,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“ouch” (homme)",
+      "short": "“ouch”",
+      "id": 22969,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pompe à vélo à main",
+      "short": "pompe à vélo à main",
+      "id": 22301,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "conversation au talkie walkie",
+      "short": "conversation au talkie walkie",
+      "id": 22970,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "clochettes de traîneau",
+      "short": "clochettes de traîneau",
+      "id": 22296,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "marcher avec des ventouses aux pieds",
+      "short": "marcher avec des ventouses aux pieds",
+      "id": 22972,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cloche de boxe",
+      "short": "cloche de boxe",
+      "id": 22290,
+      "categories": [
+        "alarm",
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ambiance sonore égouts",
+      "short": "ambiance sonore égouts",
+      "id": 22978,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "froissement d'une cannette",
+      "short": "froissement d'une cannette",
+      "id": 22284,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fontaine à débordement",
+      "short": "fontaine à débordement",
+      "id": 22982,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cloche de la récré",
+      "short": "cloche de la récré",
+      "id": 22295,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ambiance sonore sous-marine",
+      "short": "ambiance sonore sous-marine",
+      "id": 22984,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "vagues frappant le rivage",
+      "short": "vagues frappant le rivage",
+      "id": 22985,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "débrousailleuse",
+      "short": "débrousailleuse",
+      "id": 22988,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glouglou de l'eau dans le siphon",
+      "short": "glouglou de l'eau dans le siphon",
+      "id": 22974,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bips de sonar",
+      "short": "bips de sonar",
+      "id": 22896,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "crachat dans un crachoir",
+      "short": "crachat dans un crachoir",
+      "id": 22897,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "objet tournoyant",
+      "short": "objet tournoyant",
+      "id": 22956,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glouglou d'un dindon",
+      "short": "glouglou d'un dindon",
+      "id": 22955,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "trompettes royales",
+      "short": "trompettes royales",
+      "id": 22954,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "trompette triste",
+      "short": "trompette triste",
+      "id": 22953,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "allumage d'un camion",
+      "short": "allumage d'un camion",
+      "id": 22952,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnerie de passage à niveau",
+      "short": "sonnerie de passage à niveau",
+      "id": 22945,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "frappe à la machine à écrire",
+      "short": "frappe à la machine à écrire",
+      "id": 22957,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "machine à écrire",
+      "short": "machine à écrire",
+      "id": 22958,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "lente frappe au clavier",
+      "short": "lente frappe au clavier",
+      "id": 22959,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire d'un condor",
+      "short": "rire d'un condor",
+      "id": 22311,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bulles sous l'eau",
+      "short": "bulles sous l'eau",
+      "id": 22960,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas d'un gros vase",
+      "short": "fracas d'un gros vase",
+      "id": 22329,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aspirateur en marche/arrêt",
+      "short": "aspirateur en marche/arrêt",
+      "id": 22961,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "scie circulaire",
+      "short": "scie circulaire",
+      "id": 22944,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "clouer avec un marteau",
+      "short": "clouer avec un marteau",
+      "id": 22943,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chasse d'eau",
+      "short": "chasse d'eau",
+      "id": 22942,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "triple crachat",
+      "short": "triple crachat",
+      "id": 22898,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "camion reculant",
+      "short": "camion reculant",
+      "id": 22949,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon de camion",
+      "short": "klaxon de camion",
+      "id": 22950,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "recracher un liquide",
+      "short": "recracher un liquide",
+      "id": 22899,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "tic-tac d'un chronomètre",
+      "short": "tic-tac d'un chronomètre",
+      "id": 22929,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aspirer quelque chose (bouche)",
+      "short": "aspirer quelque chose",
+      "id": 22930,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "natation",
+      "short": "natation",
+      "id": 22931,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "tintements d'épées",
+      "short": "tintements d'épées",
+      "id": 22932,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "synthétiseur sec",
+      "short": "synthétiseur sec",
+      "id": 22933,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rembobinage d'une VHS",
+      "short": "rembobinage d'une VHS",
+      "id": 22934,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "télegraphe",
+      "short": "télegraphe",
+      "id": 22935,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnerie de téléphone archaïque",
+      "short": "sonnerie de téléphone archaïque",
+      "id": 22936,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rocher tombant dans l'eau",
+      "short": "rocher tombant dans l'eau",
+      "id": 22919,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "éclaboussure",
+      "short": "éclaboussure",
+      "id": 22920,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "but au football et grognement",
+      "short": "but au football et grognement",
+      "id": 22921,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflet d'arbitre",
+      "short": "sifflet d'arbitre",
+      "id": 22922,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "peinture à l'aérosol",
+      "short": "peinture à l'aérosol",
+      "id": 22924,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "charnière grinçante",
+      "short": "charnière grinçante",
+      "id": 22925,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bruits d'écureuil",
+      "short": "bruits d'écureuil",
+      "id": 22926,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rimshot à la batterie",
+      "short": "rimshot à la batterie",
+      "id": 22849,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "tonnerre",
+      "short": "tonnerre",
+      "id": 25664,
+      "categories": [
+        "weather"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sifflet de train",
+      "short": "sifflet de train",
+      "id": 25663,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Longue vie au roi!” (homme)",
+      "short": "“Longue vie au roi!”",
+      "id": 25662,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bruitage d'orchestre bref",
+      "short": "bruitage d'orchestre bref",
+      "id": 25661,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "corne de brume à main",
+      "short": "corne de brume à main",
+      "id": 25660,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "passage d'un missile",
+      "short": "passage d'un missile",
+      "id": 22853,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "petites gorgées de liquide",
+      "short": "petites gorgées de liquide",
+      "id": 22878,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse vidée",
+      "short": "flûte à coulisse vidée",
+      "id": 22885,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse remplie",
+      "short": "flûte à coulisse remplie",
+      "id": 22886,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse remplie bizarrement",
+      "short": "flûte à coulisse remplie bizarrement",
+      "id": 22887,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aspiration bruyante de liquide",
+      "short": "aspiration bruyante de liquide",
+      "id": 22888,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sirène de police au loin",
+      "short": "sirène de police au loin",
+      "id": 22879,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sirène de police américaine",
+      "short": "sirène de police américaine",
+      "id": 22880,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "courte sirène de police",
+      "short": "courte sirène de police",
+      "id": 22881,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "reniflement humain",
+      "short": "reniflement humain",
+      "id": 22890,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ronflement humain",
+      "short": "ronflement humain",
+      "id": 22891,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "clé à douille",
+      "short": "clé à douille",
+      "id": 22892,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ouverture de canette",
+      "short": "ouverture de canette",
+      "id": 22893,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sirène de police grave",
+      "short": "sirène de police grave",
+      "id": 22882,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rocher balancé à l'eau",
+      "short": "rocher balancé à l'eau",
+      "id": 22854,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cocorico",
+      "short": "cocorico",
+      "id": 22855,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "snap de gants en caoutchouc",
+      "short": "snap de gants en caoutchouc",
+      "id": 22856,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "caoutchouc étiré",
+      "short": "caoutchouc étiré",
+      "id": 22857,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pelletée de terre",
+      "short": "pelletée de terre",
+      "id": 22876,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "spray de mousse à raser",
+      "short": "spray de mousse à raser",
+      "id": 22875,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grattement rapide",
+      "short": "grattement rapide",
+      "id": 22864,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri de chute (homme)",
+      "short": "cri de chute",
+      "id": 22865,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri d'horreur (femme)",
+      "short": "cri d'horreur",
+      "id": 22866,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri d'effroi (femme)",
+      "short": "cri d'effroi",
+      "id": 22867,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri de terreur (homme)",
+      "short": "cri de terreur",
+      "id": 22868,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri de douleur (homme)",
+      "short": "cri de douleur",
+      "id": 22869,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "respirateur de plongée",
+      "short": "respirateur de plongée",
+      "id": 22870,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chant du lamantin",
+      "short": "chant du lamantin",
+      "id": 22871,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "papier émeri",
+      "short": "papier émeri",
+      "id": 22858,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ordinateur de science fiction",
+      "short": "ordinateur de science fiction",
+      "id": 22859,
+      "categories": [
+        "sci-fi"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bataille laser",
+      "short": "bataille laser",
+      "id": 22860,
+      "categories": [
+        "sci-fi",
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "tirs de lasers de SF",
+      "short": "tirs de lasers de SF",
+      "id": 22861,
+      "categories": [
+        "sci-fi"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ciseaux",
+      "short": "ciseaux",
+      "id": 22862,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "scratch de vinyle",
+      "short": "scratch de vinyle",
+      "id": 22848,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bruits de cliquet",
+      "short": "bruits de cliquet",
+      "id": 22847,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cliquetis de cric automobile",
+      "short": "cliquetis de cric automobile",
+      "id": 22846,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "forte pluie",
+      "short": "forte pluie",
+      "id": 22845,
+      "categories": [
+        "weather"
+      ]
+    },
+    {
+      "x": false,
+      "name": "réglage de radio",
+      "short": "réglage de radio",
+      "id": 22844,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“normal ou déca?” (homme)",
+      "short": "“normal ou déca?”",
+      "id": 22735,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "téléphone rotatif",
+      "short": "téléphone rotatif",
+      "id": 22828,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grouinement de cochon",
+      "short": "grouinement de cochon",
+      "id": 22829,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "couinement de cochon",
+      "short": "couinement de cochon",
+      "id": 22830,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "couinements de détresse",
+      "short": "couinements de détresse",
+      "id": 22831,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "amas d'asticots",
+      "short": "amas d'asticots",
+      "id": 22832,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flipper (jeu)",
+      "short": "flipper",
+      "id": 22833,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "vomissement dans des toilettes",
+      "short": "vomissement dans des toilettes",
+      "id": 22838,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "poulie qui grince",
+      "short": "poulie qui grince",
+      "id": 22839,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coup de poing rapide",
+      "short": "coup de poing rapide",
+      "id": 22840,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coup de poing violent",
+      "short": "coup de poing violent",
+      "id": 22841,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coup de poing & “oof”",
+      "short": "coup de poing & “oof”",
+      "id": 22842,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "longue sirène de police",
+      "short": "longue sirène de police",
+      "id": 22834,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": true,
+      "name": "musique de porno",
+      "short": "musique de porno",
+      "id": 22835,
+      "categories": [
+        "Music",
+        "sexual"
+      ]
+    },
+    {
+      "x": false,
+      "name": "couinement de chien de prairie",
+      "short": "couinement de chien de prairie",
+      "id": 22836,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "imprimante à aiguilles",
+      "short": "imprimante à aiguilles",
+      "id": 22837,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grincement de portail métallique",
+      "short": "grincement de portail métallique",
+      "id": 22797,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "trombone triste",
+      "short": "trombone triste",
+      "id": 22809,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bruitage des parents de Charlie Brown",
+      "short": "bruitage des parents de Charlie Brown",
+      "id": 22810,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "orgue de baseball avant un tir",
+      "short": "orgue de baseball avant un tir",
+      "id": 22811,
+      "categories": [
+        "Music",
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "boîte à musique",
+      "short": "boîte à musique",
+      "id": 22812,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "giclement de moutarde",
+      "short": "giclement de moutarde",
+      "id": 22813,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chouette",
+      "short": "chouette",
+      "id": 22814,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cell phone vibrating",
+      "short": "cell phone vibrating",
+      "id": 22823,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "téléphone en vibreur",
+      "short": "téléphone en vibreur",
+      "id": 22824,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "numérotation au téléphone",
+      "short": "numérotation au téléphone",
+      "id": 22825,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "déchirement de papier",
+      "short": "déchirement de papier",
+      "id": 22815,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sortie d'air",
+      "short": "sortie d'air",
+      "id": 22816,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“coucou” (perroquet)",
+      "short": "“coucou” (perroquet)",
+      "id": 22817,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "braillement de perroquet",
+      "short": "braillement de perroquet",
+      "id": 22818,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ambiance en soirée",
+      "short": "ambiance en soirée",
+      "id": 22819,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "langues de belle-mère",
+      "short": "langues de belle-mère",
+      "id": 22820,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ligne occupée",
+      "short": "ligne occupée",
+      "id": 22821,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": true,
+      "name": "bataille militaire",
+      "short": "bataille militaire",
+      "id": 22798,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "connexion de modem",
+      "short": "connexion de modem",
+      "id": 22799,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grognement de monstre",
+      "short": "grognement de monstre",
+      "id": 22800,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri de monstre",
+      "short": "cri de monstre",
+      "id": 22801,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "code morse",
+      "short": "code morse",
+      "id": 22802,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "violon mal accordé",
+      "short": "violon mal accordé",
+      "id": 25669,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pic dramatique soudain",
+      "short": "pic dramatique soudain",
+      "id": 22803,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando aigu à l'harmonica",
+      "short": "glissando aigu à l'harmonica",
+      "id": 22804,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hurlements de groupies",
+      "short": "hurlements de groupies",
+      "id": 25668,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "orgue hanté",
+      "short": "orgue hanté",
+      "id": 22805,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rires de bébé adorable",
+      "short": "rires de bébé adorable",
+      "id": 25666,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rot impressionnant",
+      "short": "rot impressionnant",
+      "id": 25667,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "kazoo déçu",
+      "short": "kazoo déçu",
+      "id": 22807,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "jet passant pas loin",
+      "short": "jet passant pas loin",
+      "id": 22768,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "passage d'un jetpack",
+      "short": "passage d'un jetpack",
+      "id": 22769,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "martèlement de métal rapide",
+      "short": "martèlement de métal rapide",
+      "id": 22794,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "métal tombé",
+      "short": "métal tombé",
+      "id": 22793,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bips de détecteurs de métaux",
+      "short": "bips de détecteurs de métaux",
+      "id": 22792,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas de débris métalliques",
+      "short": "fracas de débris métalliques",
+      "id": 22791,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "enjoliveur tournant",
+      "short": "enjoliveur tournant",
+      "id": 22790,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "clé anglaise tombée",
+      "short": "clé anglaise tombée",
+      "id": 22789,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "marche militaire",
+      "short": "marche militaire",
+      "id": 22788,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "marche militaire dans un tunnel",
+      "short": "marche militaire dans un tunnel",
+      "id": 22787,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "billes éparpillées",
+      "short": "billes éparpillées",
+      "id": 22786,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“bonjour” (homme)",
+      "short": "“bonjour”",
+      "id": 22785,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aspiration de liquide",
+      "short": "aspiration de liquide",
+      "id": 22784,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "liquide versé",
+      "short": "liquide versé",
+      "id": 22783,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "liquide en ébullition",
+      "short": "liquide en ébullition",
+      "id": 22782,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "poire à arroser la viande",
+      "short": "poire à arroser la viande",
+      "id": 22781,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“ta da” au kazoo",
+      "short": "“ta da” au kazoo",
+      "id": 22770,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "corne de brume pour enfant",
+      "short": "corne de brume pour enfant",
+      "id": 22771,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "enfants qui jouent",
+      "short": "enfants qui jouent",
+      "id": 22772,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bêlement d'un agneau",
+      "short": "bêlement d'un agneau",
+      "id": 22773,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bêlement d'un agneau",
+      "short": "bêlement d'un agneau",
+      "id": 22774,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "enfants qui rigolent",
+      "short": "enfants qui rigolent",
+      "id": 22775,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "jouet louche qui rit",
+      "short": "jouet louche qui rit",
+      "id": 22776,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire pré-enregistré",
+      "short": "rire pré-enregistré",
+      "id": 22777,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire de sitcom et applaudissements",
+      "short": "rire de sitcom et applaudissements",
+      "id": 22778,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“5-4-3-2-1” (homme)",
+      "short": "“5-4-3-2-1”",
+      "id": 22779,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "liquide versé avec des glaçons",
+      "short": "liquide versé avec des glaçons",
+      "id": 22780,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "marteau piqueur",
+      "short": "marteau piqueur",
+      "id": 22766,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri d'effroi (homme)",
+      "short": "cri d'effroi",
+      "id": 22736,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "clé à chocs",
+      "short": "clé à chocs",
+      "id": 22764,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas de bois",
+      "short": "fracas de bois",
+      "id": 22763,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chute d'une barre en métal",
+      "short": "chute d'une barre en métal",
+      "id": 22762,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "objet tombant dans une poubelle métallique",
+      "short": "objet tombant dans une poubelle métallique",
+      "id": 22761,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Stop” (homme)",
+      "short": "“Stop”",
+      "id": 22737,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Essaie encore” (homme)",
+      "short": "“Essaie encore”",
+      "id": 22738,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Monte le son!” (homme)",
+      "short": "“Monte le son!”",
+      "id": 22739,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": true,
+      "name": "homme à l'urinoir (longtemps)",
+      "short": "homme à l'urinoir (longtemps)",
+      "id": 22740,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "élévateur hydraulique",
+      "short": "élévateur hydraulique",
+      "id": 22754,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "petit élévateur hydraulique",
+      "short": "petit élévateur hydraulique",
+      "id": 22755,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "moteur de robot",
+      "short": "moteur de robot",
+      "id": 22756,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glaçons dans un verre",
+      "short": "glaçons dans un verre",
+      "id": 22757,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glaçons dans un verre/gorgée",
+      "short": "glaçons dans un verre/gorgée",
+      "id": 22758,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“bienvenue” (homme)",
+      "short": "“bienvenue”",
+      "id": 22741,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Ouais” (homme)",
+      "short": "“Ouais”",
+      "id": 22742,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "halètement humain",
+      "short": "halètement humain",
+      "id": 22743,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri (femme)",
+      "short": "cri",
+      "id": 22744,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grognement (homme)",
+      "short": "grognement",
+      "id": 22751,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri de torture (homme)",
+      "short": "cri de torture",
+      "id": 22745,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "éternuement (homme)",
+      "short": "éternuement",
+      "id": 22746,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“ça risque de durer un moment” (homme)",
+      "short": "“ça risque de durer un moment”",
+      "id": 22748,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "exclamation (femme)",
+      "short": "exclamation",
+      "id": 22750,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse remplie (court)",
+      "short": "flûte à coulisse remplie (court)",
+      "id": 22407,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "éclaircissement de gorge (homme)",
+      "short": "éclaircissement de gorge",
+      "id": 22720,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bonne réponse” (homme)",
+      "short": "“Bonne réponse”",
+      "id": 22721,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Beau travail” (homme)",
+      "short": "“Beau travail”",
+      "id": 22722,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Hey, il y a quelqu'un?” (homme)",
+      "short": "“Hey, il y a quelqu'un?”",
+      "id": 22723,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Salut” (homme)",
+      "short": "“Salut”",
+      "id": 22724,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Made in France” (homme)",
+      "short": "“Made in France”",
+      "id": 22725,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“C'est l'heure de dodo” (homme)",
+      "short": "“C'est l'heure de dodo”",
+      "id": 22726,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Garez vous pas là” (homme/Espagnol)",
+      "short": "“Garez vous pas là” (Espagnol)",
+      "id": 22727,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Nan” (homme)",
+      "short": "“Nan”",
+      "id": 22729,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Chargement en cours” (homme)",
+      "short": "“Chargement en cours”",
+      "id": 22730,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Oops!” (homme)",
+      "short": "“Oops!”",
+      "id": 22731,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": true,
+      "name": "homme à l'urinoir",
+      "short": "homme à l'urinoir",
+      "id": 22732,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": true,
+      "name": "homme urinant dehors",
+      "short": "homme urinant dehors",
+      "id": 22733,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Appuyez ici” (homme)",
+      "short": "“Appuyez ici”",
+      "id": 22734,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "éternuement (femme)",
+      "short": "éternuement",
+      "id": 22706,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Plus doucement” (femme)",
+      "short": "“Plus doucement”",
+      "id": 22707,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Stop” (femme)",
+      "short": "“Stop”",
+      "id": 22708,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Commencez par arrêter l'hémorragie” (femme)",
+      "short": "“Commencez par arrêter l'hémorragie”",
+      "id": 22709,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Ça risque de prendre un moment” (femme)",
+      "short": "“Ça risque de prendre un moment”",
+      "id": 22710,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Uh uh” (femme)",
+      "short": "“Uh uh”",
+      "id": 22711,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bienvenue” (femme)",
+      "short": "“Bienvenue”",
+      "id": 22712,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Faux, essayez encore.” (femme)",
+      "short": "“Faux, essayez encore.”",
+      "id": 22713,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Oui” (femme)",
+      "short": "“Oui”",
+      "id": 22714,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "déglutissement",
+      "short": "déglutissement",
+      "id": 22715,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire maniaque",
+      "short": "rire maniaque",
+      "id": 22716,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire (femme)",
+      "short": "rire",
+      "id": 22717,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“1920” (homme)",
+      "short": "“1920”",
+      "id": 22718,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“De retour par demande générale” (homme)",
+      "short": "“De retour par demande générale”",
+      "id": 22719,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bonne fi-fille” (femme)",
+      "short": "“Bonne fi-fille”",
+      "id": 22692,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“À l'aide!” (femme)",
+      "short": "“À l'aide!”",
+      "id": 22693,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Salut” (femme)",
+      "short": "“Salut”",
+      "id": 22694,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bien le bonjour” (femme)",
+      "short": "“Bien le bonjour”",
+      "id": 22695,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire (femme)",
+      "short": "rire",
+      "id": 22696,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Non” (femme)",
+      "short": "“Non”",
+      "id": 22697,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“La zone blanche...” (femme)",
+      "short": "“La zone blanche...”",
+      "id": 22698,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“C'est pas bon ça” (femme)",
+      "short": "“C'est pas bon ça”",
+      "id": 22699,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Pas là, ducon!” (femme)",
+      "short": "“Pas là, ducon!”",
+      "id": 22700,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Oops!” (femme)",
+      "short": "“Oops!”",
+      "id": 22701,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": true,
+      "name": "gémissement sexuel (femme)",
+      "short": "gémissement sexuel",
+      "id": 22702,
+      "categories": [
+        "sexual",
+        "voice"
+      ]
+    },
+    {
+      "x": true,
+      "name": "orgasme (femme)",
+      "short": "orgasme",
+      "id": 22703,
+      "categories": [
+        "sexual",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Veuillez patienter” (femme)",
+      "short": "“Veuillez patienter”",
+      "id": 22704,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Appuyez ici” (femme)",
+      "short": "“Appuyez ici”",
+      "id": 22705,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "quinte de toux (homme)",
+      "short": "quinte de toux",
+      "id": 22682,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "manger bruyamment",
+      "short": "manger bruyamment",
+      "id": 22683,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“1980” (femme)",
+      "short": "“1980”",
+      "id": 22684,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Aww” (femme)",
+      "short": "“Aww”",
+      "id": 22685,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Prenez une grande inspiration” (femme)",
+      "short": "“Prenez une grande inspiration”",
+      "id": 22686,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bye bye” (femme)",
+      "short": "“Bye bye”",
+      "id": 22688,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bonne réponse” (femme)",
+      "short": "“Bonne réponse”",
+      "id": 22690,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bon garçon” (femme)",
+      "short": "“Bon garçon”",
+      "id": 22691,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": true,
+      "name": "marcher sur une éponge gorgée d'eau",
+      "short": "marcher sur une éponge gorgée d'eau",
+      "id": 22615,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "se couper un membre",
+      "short": "se couper un membre",
+      "id": 22614,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon des années 20",
+      "short": "klaxon des années 20",
+      "id": 22646,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon de cartoon",
+      "short": "klaxon de cartoon",
+      "id": 22647,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "corne de brume",
+      "short": "corne de brume",
+      "id": 22648,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon (2 fois)",
+      "short": "klaxon (2 fois)",
+      "id": 22664,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "langues de belle-mère",
+      "short": "langues de belle-mère",
+      "id": 22666,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "choeur de langues de belle-mère",
+      "short": "choeur de langues de belle-mère",
+      "id": 22667,
+      "categories": [
+        "alarm",
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "assemblée de morts-vivants",
+      "short": "assemblée de morts-vivants",
+      "id": 22673,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hennissement de cheval",
+      "short": "hennissement de cheval",
+      "id": 22674,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cheval au galop (imitation)",
+      "short": "cheval au galop (imitation)",
+      "id": 22675,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cheval en colère",
+      "short": "cheval en colère",
+      "id": 22676,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "baignoire bouillonnante",
+      "short": "baignoire bouillonnante",
+      "id": 22677,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "respiration difficile",
+      "short": "respiration difficile",
+      "id": 22679,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "corne de brume (bateau)",
+      "short": "corne de brume (bateau)",
+      "id": 22668,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon bref",
+      "short": "klaxon bref",
+      "id": 22669,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon d'une voiture qui double",
+      "short": "klaxon d'une voiture qui double",
+      "id": 22670,
+      "categories": [
+        "alarm",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon de clown",
+      "short": "klaxon de clown",
+      "id": 22671,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": true,
+      "name": "tir de fusil à pompe",
+      "short": "tir de fusil à pompe",
+      "id": 22636,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "armement de fusil à pompe",
+      "short": "armement de fusil à pompe",
+      "id": 22637,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "tir d'arme à feu avec silencieux",
+      "short": "tir d'arme à feu avec silencieux",
+      "id": 22638,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando à la harpe/rêve",
+      "short": "glissando à la harpe/rêve",
+      "id": 22639,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando aigu à la harpe",
+      "short": "glissando aigu à la harpe",
+      "id": 22640,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rythme cardiaque rapide",
+      "short": "rythme cardiaque rapide",
+      "id": 22641,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rythme cardiaque normal",
+      "short": "rythme cardiaque normal",
+      "id": 22644,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": true,
+      "name": "décapitation",
+      "short": "décapitation",
+      "id": 22613,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "giclement de liquide",
+      "short": "giclement de liquide",
+      "id": 22612,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "manipulation d'objet mouillé",
+      "short": "manipulation d'objet mouillé",
+      "id": 22611,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "rafale de balles",
+      "short": "rafale de balles",
+      "id": 22624,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "tirs multiples de pistolet",
+      "short": "tirs multiples de pistolet",
+      "id": 22625,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "pistolet à court de munitions",
+      "short": "pistolet à court de munitions",
+      "id": 22626,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "mitrailleuse ouvrant le feu",
+      "short": "mitrailleuse ouvrant le feu",
+      "id": 22627,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gong",
+      "short": "gong",
+      "id": 22610,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": true,
+      "name": "tirs multiples de fusil",
+      "short": "tirs multiples de fusil",
+      "id": 22622,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "tir au canon",
+      "short": "tir au canon",
+      "id": 22620,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": true,
+      "name": "armement puis tir de fusil",
+      "short": "armement puis tir de fusil",
+      "id": 22619,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "claquement de dents de marmotte",
+      "short": "claquement de dents de marmotte",
+      "id": 22618,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "évacuation totale des intestins",
+      "short": "évacuation totale des intestins",
+      "id": 22617,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "musique au gramophone",
+      "short": "musique au gramophone",
+      "id": 22616,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnerie de sport",
+      "short": "sonnerie de sport",
+      "id": 22597,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gargarisme",
+      "short": "gargarisme",
+      "id": 22598,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "exclamation/surprise (femme)",
+      "short": "exclamation/surprise",
+      "id": 22599,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gloussement (femme)",
+      "short": "gloussement",
+      "id": 22600,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas de verre (beaucoup)",
+      "short": "fracas de verre (beaucoup)",
+      "id": 22601,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas de verre",
+      "short": "fracas de verre",
+      "id": 22605,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bêlement de chèvre",
+      "short": "bêlement de chèvre",
+      "id": 22606,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "impact de balle de golf",
+      "short": "impact de balle de golf",
+      "id": 22607,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "balle de golf rentrant dans un trou",
+      "short": "balle de golf rentrant dans un trou",
+      "id": 22608,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "balle de golf à l'eau'",
+      "short": "balle de golf à l'eau",
+      "id": 22609,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "festival de pets",
+      "short": "festival de pets",
+      "id": 22573,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet coincé",
+      "short": "pet coincé",
+      "id": 22572,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet aérien bref",
+      "short": "pet aérien bref",
+      "id": 22571,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bouquet final de feux d'artifice",
+      "short": "bouquet final de feux d'artifice",
+      "id": 22583,
+      "categories": [
+        "explosion"
+      ]
+    },
+    {
+      "x": false,
+      "name": "friture de viande",
+      "short": "friture de viande",
+      "id": 22595,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coassements de grenouille",
+      "short": "coassements de grenouille",
+      "id": 22594,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bruits de pas sur du bois",
+      "short": "bruits de pas sur du bois",
+      "id": 22593,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "frétillement de poisson",
+      "short": "frétillement de poisson",
+      "id": 22585,
+      "categories": [
+        "Animal",
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fil de pêche se dévidant",
+      "short": "fil de pêche se dévidant",
+      "id": 22586,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "corne de brume",
+      "short": "corne de brume",
+      "id": 22587,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fusée bouteille",
+      "short": "fusée bouteille",
+      "id": 22582,
+      "categories": [
+        "explosion"
+      ]
+    },
+    {
+      "x": false,
+      "name": "crépitement du feu",
+      "short": "crépitement du feu",
+      "id": 22581,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "feux d'artifice",
+      "short": "feux d'artifice",
+      "id": 22580,
+      "categories": [
+        "explosion"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bruits de pas sur le béton",
+      "short": "bruits de pas sur le béton",
+      "id": 22588,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet foireux",
+      "short": "pet foireux",
+      "id": 22574,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet dans une baignoire",
+      "short": "pet dans une baignoire",
+      "id": 22575,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet serré",
+      "short": "pet serré",
+      "id": 22570,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet dans un pantalon, étouffé",
+      "short": "pet dans un pantalon, étouffé",
+      "id": 25671,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet bref à la cuvette",
+      "short": "pet bref à la cuvette",
+      "id": 22569,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "toux sèche",
+      "short": "toux sèche",
+      "id": 25672,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet forcé",
+      "short": "pet forcé",
+      "id": 22568,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet retenu bref",
+      "short": "pet retenu bref",
+      "id": 22567,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bonjour” (femme)",
+      "short": "“Bonjour”",
+      "id": 22577,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet mouillé très long",
+      "short": "pet mouillé très long",
+      "id": 22566,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "petite foule sanglotante",
+      "short": "petite foule sanglotante",
+      "id": 22492,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissement de cartoon puis klaxon",
+      "short": "glissement de cartoon puis klaxon",
+      "id": 22406,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chaise électrique",
+      "short": "chaise électrique",
+      "id": 22541,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bourdonnement électrique",
+      "short": "bourdonnement électrique",
+      "id": 22542,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "mélodie digitale",
+      "short": "mélodie digitale",
+      "id": 22543,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "barissement d'éléphant",
+      "short": "barissement d'éléphant",
+      "id": 22544,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "explosion titanesque",
+      "short": "explosion titanesque",
+      "id": 22545,
+      "categories": [
+        "explosion"
+      ]
+    },
+    {
+      "x": false,
+      "name": "explosion et verre brisé",
+      "short": "explosion et verre brisé",
+      "id": 22546,
+      "categories": [
+        "explosion"
+      ]
+    },
+    {
+      "x": false,
+      "name": "explosion brève",
+      "short": "explosion brève",
+      "id": 22552,
+      "categories": [
+        "explosion"
+      ]
+    },
+    {
+      "x": true,
+      "name": "explosion de grenade",
+      "short": "explosion de grenade",
+      "id": 22547,
+      "categories": [
+        "explosion",
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "vrombissement de tronçonneuse",
+      "short": "vrombissement de tronçonneuse",
+      "id": 22450,
+      "categories": [
+        "tools",
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "personne mangeant des chips",
+      "short": "personne mangeant des chips",
+      "id": 22538,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "très grande explosion",
+      "short": "très grande explosion",
+      "id": 22550,
+      "categories": [
+        "explosion"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule en liesse",
+      "short": "foule en liesse",
+      "id": 22489,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule poussant des huées",
+      "short": "foule poussant des huées",
+      "id": 22490,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "appel du canard mâle",
+      "short": "appel du canard mâle",
+      "id": 22532,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "caquètements de canard malade",
+      "short": "caquètements de canard malade",
+      "id": 22533,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "caquètements graves",
+      "short": "caquètements graves",
+      "id": 22534,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "caquètements de canard",
+      "short": "caquètements de canard",
+      "id": 22535,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "caquètement de canard",
+      "short": "caquètement de canard",
+      "id": 22536,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rires et cris de chimpanzé",
+      "short": "rires et cris de chimpanzé",
+      "id": 22453,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "porte qui grince",
+      "short": "porte qui grince",
+      "id": 22520,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "on frappe à la porte",
+      "short": "on frappe à la porte",
+      "id": 22521,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule hurlant “hourra”",
+      "short": "foule hurlant “hourra”",
+      "id": 22494,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aboiements de gros chien",
+      "short": "aboiements de gros chien",
+      "id": 22511,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "roulement de tambour/coup",
+      "short": "roulement de tambour/coup",
+      "id": 22530,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fraise de dentiste",
+      "short": "fraise de dentiste",
+      "id": 22527,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "conversation d'androïdes",
+      "short": "conversation d'androïdes",
+      "id": 22528,
+      "categories": [
+        "sci-fi"
+      ]
+    },
+    {
+      "x": false,
+      "name": "braiement d'âne",
+      "short": "braiement d'âne",
+      "id": 22517,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnerie de porte",
+      "short": "sonnerie de porte",
+      "id": 22518,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule de stade “aww”",
+      "short": "foule de stade “aww”",
+      "id": 22495,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire d'audience",
+      "short": "rire d'audience",
+      "id": 22496,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gérémiade de chien",
+      "short": "gérémiade de chien",
+      "id": 22510,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule émerveillée “ohhhh”",
+      "short": "foule émerveillée “ohhhh”",
+      "id": 22497,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule s'exclamant “Surprise!”",
+      "short": "foule s'exclamant “Surprise!”",
+      "id": 22498,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "nouveau né pleurant",
+      "short": "nouveau né pleurant",
+      "id": 22499,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "enfant qui pleure",
+      "short": "enfant qui pleure",
+      "id": 22500,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coucou suisse",
+      "short": "coucou suisse",
+      "id": 22501,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aspirateur à salive",
+      "short": "aspirateur à salive",
+      "id": 22502,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri du dinosaure",
+      "short": "cri du dinosaure",
+      "id": 22503,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grondements de chien",
+      "short": "grondements de chien",
+      "id": 22504,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aboiement de petit chien",
+      "short": "aboiement de petit chien",
+      "id": 22505,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aboiements vicieux de gros chien",
+      "short": "aboiements vicieux de gros chien",
+      "id": 22506,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grognement menaçant de chien",
+      "short": "grognement menaçant de chien",
+      "id": 22507,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "long grognement de chien",
+      "short": "long grognement de chien",
+      "id": 22508,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cris de chimpanzé",
+      "short": "cris de chimpanzé",
+      "id": 22454,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chimpanzé fou",
+      "short": "chimpanzé fou",
+      "id": 22455,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pièces tombant sur une table",
+      "short": "pièces tombant sur une table",
+      "id": 22463,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "croassement de corbeau",
+      "short": "croassement de corbeau",
+      "id": 22482,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "enfants joyeux “yay”",
+      "short": "enfants joyeux “yay”",
+      "id": 22483,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule comptant “5, 4, 3, 2...”",
+      "short": "foule comptant “5, 4, 3, 2...”",
+      "id": 22485,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule en colère",
+      "short": "foule en colère",
+      "id": 22486,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "radio de policier",
+      "short": "radio de policier",
+      "id": 22464,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bouchon sautant",
+      "short": "bouchon sautant",
+      "id": 22465,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "foule surprise",
+      "short": "foule surprise",
+      "id": 22493,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "beuglement de vache",
+      "short": "beuglement de vache",
+      "id": 22466,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "long beuglement de vache",
+      "short": "long beuglement de vache",
+      "id": 22467,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cloche de vache",
+      "short": "cloche de vache",
+      "id": 22468,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas de ferraille",
+      "short": "fracas de ferraille",
+      "id": 22476,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire de chimpanzé",
+      "short": "rire de chimpanzé",
+      "id": 22456,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "beuglement et couinement",
+      "short": "beuglement et couinement",
+      "id": 22471,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hurlement de coyote",
+      "short": "hurlement de coyote",
+      "id": 22472,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "dérapage puis accident de voiture",
+      "short": "dérapage puis accident de voiture",
+      "id": 22473,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas dans un placard",
+      "short": "fracas dans un placard",
+      "id": 22474,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "claquements d'écureuil",
+      "short": "claquements d'écureuil",
+      "id": 22457,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "étouffement humain",
+      "short": "étouffement humain",
+      "id": 22458,
+      "categories": [
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "tic tac d'horloge",
+      "short": "tic tac d'horloge",
+      "id": 22459,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fuite de cartoon",
+      "short": "fuite de cartoon",
+      "id": 22405,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "machine loufoque de cartoon",
+      "short": "machine loufoque de cartoon",
+      "id": 22434,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire loufoque de clown",
+      "short": "rire loufoque de clown",
+      "id": 22461,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rembobinement de cassette",
+      "short": "rembobinement de cassette",
+      "id": 22403,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "frappe au crâne de cartoon",
+      "short": "frappe au crâne de cartoon",
+      "id": 22402,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rebondissement de cartoon",
+      "short": "rebondissement de cartoon",
+      "id": 22423,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "accident de voiture rapide",
+      "short": "accident de voiture rapide",
+      "id": 22424,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gouttes d'eau",
+      "short": "gouttes d'eau",
+      "id": 22435,
+      "categories": [
+        "cartoon",
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "taper un sms",
+      "short": "taper un sms",
+      "id": 22448,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "scat (vieil homme)",
+      "short": "scat (vieil homme)",
+      "id": 25713,
+      "categories": [
+        "Music",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "miaulement",
+      "short": "miaulement",
+      "id": 22447,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet (étonnament mouillé)",
+      "short": "pet (étonnament mouillé)",
+      "id": 25712,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chat en colère",
+      "short": "chat en colère",
+      "id": 22446,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cloche de caisse enregistreuse",
+      "short": "cloche de caisse enregistreuse",
+      "id": 22445,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "orage de cartoon",
+      "short": "orage de cartoon",
+      "id": 22436,
+      "categories": [
+        "cartoon",
+        "weather"
+      ]
+    },
+    {
+      "x": false,
+      "name": "explosion magique de cartoon",
+      "short": "explosion magique de cartoon",
+      "id": 22437,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "boing de cartoon",
+      "short": "boing de cartoon",
+      "id": 22438,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "flûte à coulisse vidée",
+      "short": "flûte à coulisse vidée",
+      "id": 22439,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "boing de cartoon",
+      "short": "boing de cartoon",
+      "id": 22440,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pic-vert de cartoon",
+      "short": "pic-vert de cartoon",
+      "id": 22441,
+      "categories": [
+        "Animal",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "blabla aigu de cartoon",
+      "short": "blabla aigu de cartoon",
+      "id": 22442,
+      "categories": [
+        "cartoon",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissement de cartoon",
+      "short": "glissement de cartoon",
+      "id": 22443,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "doing de cartoon",
+      "short": "doing de cartoon",
+      "id": 22373,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando à la harpe/rêve",
+      "short": "glissando à la harpe/rêve",
+      "id": 22375,
+      "categories": [
+        "Music",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "carillon de rêve/flashback",
+      "short": "carillon de rêve/flashback",
+      "id": 22377,
+      "categories": [
+        "Music",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "caquettements",
+      "short": "caquettements",
+      "id": 22537,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "roulement de tambour/coup de cymbale",
+      "short": "roulement de tambour/coup de cymbale",
+      "id": 22531,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bips d'ordinateur rétro",
+      "short": "bips d'ordinateur rétro",
+      "id": 22529,
+      "categories": [
+        "sci-fi"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cloche de vache agitée",
+      "short": "cloche de vache agitée",
+      "id": 22469,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cartoon buvant un liquide",
+      "short": "cartoon buvant un liquide",
+      "id": 22378,
+      "categories": [
+        "cartoon",
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fanfare de cuivres",
+      "short": "fanfare de cuivres",
+      "id": 22564,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "porte grinçante",
+      "short": "porte grinçante",
+      "id": 22525,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coups forts à la porte",
+      "short": "coups forts à la porte",
+      "id": 22523,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gazouillis d'oiseaux",
+      "short": "gazouillis d'oiseaux",
+      "id": 22412,
+      "categories": [
+        "Animal",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "passage d'une voiture de SF",
+      "short": "passage d'une voiture de SF",
+      "id": 22413,
+      "categories": [
+        "cartoon",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "splat de quelque chose de mouillé",
+      "short": "splat de quelque chose de mouillé",
+      "id": 22414,
+      "categories": [
+        "cartoon",
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "croassement de cartoon",
+      "short": "croassement de cartoon",
+      "id": 22415,
+      "categories": [
+        "Animal",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "frottement de cartoon",
+      "short": "frottement de cartoon",
+      "id": 22416,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gants en vinyle/snap",
+      "short": "gants en vinyle/snap",
+      "id": 22417,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“bonk” de cartoon",
+      "short": "“bonk” de cartoon",
+      "id": 22418,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "lancer de cartoon",
+      "short": "lancer de cartoon",
+      "id": 22419,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chute cartoonesque dans un puits",
+      "short": "chute cartoonesque dans un puits",
+      "id": 22380,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "blabla de cartoon",
+      "short": "blabla de cartoon",
+      "id": 22382,
+      "categories": [
+        "cartoon",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet avec la bouche",
+      "short": "pet avec la bouche",
+      "id": 22399,
+      "categories": [
+        "bodily functions",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "porte qui grince",
+      "short": "porte qui grince",
+      "id": 22398,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grognement de monstre",
+      "short": "grognement de monstre",
+      "id": 22397,
+      "categories": [
+        "Animal",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coup de poêle à frire",
+      "short": "coup de poêle à frire",
+      "id": 22396,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fioritures magiques de cartoon",
+      "short": "fioritures magiques de cartoon",
+      "id": 22395,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnerie de téléphone",
+      "short": "sonnerie de téléphone",
+      "id": 22941,
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "dérapage & chute dans l'eau",
+      "short": "dérapage & chute dans l'eau",
+      "id": 22409,
+      "categories": [
+        "cartoon",
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "éternuement (homme cartoon)",
+      "short": "éternuement (cartoon)",
+      "id": 22410,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ronflements bruyants",
+      "short": "ronflements bruyants",
+      "id": 22411,
+      "categories": [
+        "cartoon",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "apparition magique “Abracadabra!”",
+      "short": "apparition magique “Abracadabra!”",
+      "id": 22394,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "explosion magique",
+      "short": "explosion magique",
+      "id": 22393,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "retournement de cartoon",
+      "short": "retournement de cartoon",
+      "id": 22383,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "électrocardiogramme",
+      "short": "électrocardiogramme",
+      "id": 22645,
+      "categories": [
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando à la guitare",
+      "short": "glissando à la guitare",
+      "id": 22384,
+      "categories": [
+        "Music",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pistolet grappin",
+      "short": "pistolet grappin",
+      "id": 22623,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "hoquet de cartoon",
+      "short": "hoquet de cartoon",
+      "id": 22385,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "grognement d'ours",
+      "short": "grognement d'ours",
+      "id": 25716,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“scratch’” à la table de mixage",
+      "short": "“scratch’” à la table de mixage",
+      "id": 25717,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "saut de cartoon",
+      "short": "saut de cartoon",
+      "id": 22386,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "baiser de cartoon",
+      "short": "baiser de cartoon",
+      "id": 22387,
+      "categories": [
+        "cartoon",
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "meule en pierre",
+      "short": "meule en pierre",
+      "id": 22927,
+      "categories": [
+        "tools"
+      ]
+    },
+    {
+      "x": false,
+      "name": "boîte de conserve avec une bille",
+      "short": "boîte de conserve avec une bille",
+      "id": 22874,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "long baiser de cartoon",
+      "short": "long baiser de cartoon",
+      "id": 22388,
+      "categories": [
+        "cartoon",
+        "human"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire maléfique de cartoon",
+      "short": "rire maléfique de cartoon",
+      "id": 22389,
+      "categories": [
+        "cartoon",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "halètement lourd",
+      "short": "halètement lourd",
+      "id": 22681,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire maniaque cartoonesque",
+      "short": "rire maniaque cartoonesque",
+      "id": 22390,
+      "categories": [
+        "cartoon",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "applaudissements épars",
+      "short": "applaudissements épars",
+      "id": 22252,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rires et applaudissements",
+      "short": "rires et applaudissements",
+      "id": 22255,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "huées de foule",
+      "short": "huées de foule",
+      "id": 22257,
+      "categories": [
+        "crowd"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chute d'enclume cartoonesque",
+      "short": "chute d'enclume cartoonesque",
+      "id": 22359,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rebondissement de cartoon",
+      "short": "rebondissement de cartoon",
+      "id": 22360,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“twang” de cartoon",
+      "short": "“twang” de cartoon",
+      "id": 22361,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gigotement cartoonesque",
+      "short": "gigotement cartoonesque",
+      "id": 22364,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coup lourd de cartoon",
+      "short": "coup lourd de cartoon",
+      "id": 22365,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "personne en colère au téléphone",
+      "short": "personne en colère au téléphone",
+      "id": 22366,
+      "categories": [
+        "cartoon",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rebondissement de cartoon",
+      "short": "rebondissement de cartoon",
+      "id": 22367,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "jeter de couteau de cartoon",
+      "short": "jeter de couteau de cartoon",
+      "id": 22422,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coup de clairon",
+      "short": "coup de clairon",
+      "id": 22336,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "long pet avec la bouche",
+      "short": "long pet avec la bouche",
+      "id": 22401,
+      "categories": [
+        "bodily functions",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "arc et flèche de cartoon",
+      "short": "arc et flèche de cartoon",
+      "id": 22368,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "claquement de dent de cartoon",
+      "short": "claquement de dent de cartoon",
+      "id": 22369,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "morsure de cartoon",
+      "short": "morsure de cartoon",
+      "id": 22370,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rire maléfique de cartoon",
+      "short": "rire maléfique de cartoon",
+      "id": 22391,
+      "categories": [
+        "cartoon",
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "aboiements d'une meute de chiots",
+      "short": "aboiements d'une meute de chiots",
+      "id": 22514,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ordinateur rétro de cartoon",
+      "short": "ordinateur rétro de cartoon",
+      "id": 22371,
+      "categories": [
+        "cartoon",
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": false,
+      "name": "stridulement de criquets",
+      "short": "stridulement de criquets",
+      "id": 22480,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ordinateur hors de contrôle rétro",
+      "short": "ordinateur hors de contrôle rétro",
+      "id": 22372,
+      "categories": [
+        "cartoon",
+        "electronic/machine"
+      ]
+    },
+    {
+      "x": true,
+      "name": "ricochet de tir",
+      "short": "ricochet de tir",
+      "id": 22339,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "klaxon en embouteillage",
+      "short": "klaxon en embouteillage",
+      "id": 22258,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "dérapage de voiture",
+      "short": "dérapage de voiture",
+      "id": 22262,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“soldat lève toi” au clairon",
+      "short": "“soldat lève toi” au clairon",
+      "id": 22338,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coups sur un sac de sable",
+      "short": "coups sur un sac de sable",
+      "id": 22325,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“À l'attaque!” au clairon",
+      "short": "“À l'attaque!” au clairon",
+      "id": 22333,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "accélération d'une voiture",
+      "short": "accélération d'une voiture",
+      "id": 22263,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "pet à la cuvette",
+      "short": "pet à la cuvette",
+      "id": 25706,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "liquide visqueux en ébullition",
+      "short": "liquide visqueux en ébullition",
+      "id": 22332,
+      "categories": [
+        "liquid"
+      ]
+    },
+    {
+      "x": false,
+      "name": "lavage de dents et crachat",
+      "short": "lavage de dents et crachat",
+      "id": 22331,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Tu ne m'écoutes pas!” (femme)",
+      "short": "“Tu ne m'écoutes pas!”",
+      "id": 25701,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri du faucon",
+      "short": "cri du faucon",
+      "id": 22312,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Bonjour? Il y a quelqu'un?” (femme)",
+      "short": "“Bonjour? Il y a quelqu'un?”",
+      "id": 25710,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Mais qu'est-ce que t'attends?!” (homme)",
+      "short": "“Mais qu'est-ce que t'attends?!”",
+      "id": 25711,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "“Viens, minet, minet.” (homme)",
+      "short": "“Viens, minet, minet.”",
+      "id": 25702,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fantôme effrayant",
+      "short": "fantôme effrayant",
+      "id": 25714,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fracas d'un petit vase",
+      "short": "fracas d'un petit vase",
+      "id": 22328,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "chute cartoonesque dans un seau",
+      "short": "chute cartoonesque dans un seau",
+      "id": 25715,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "strike au bowling",
+      "short": "strike au bowling",
+      "id": 22324,
+      "categories": [
+        "sports"
+      ]
+    },
+    {
+      "x": false,
+      "name": "voiture qui ne démarre pas",
+      "short": "voiture qui ne démarre pas",
+      "id": 22266,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cornemuse horriblement mal accordée",
+      "short": "cornemuse horriblement mal accordée",
+      "id": 22271,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "passage d'une voiture de course",
+      "short": "passage d'une voiture de course",
+      "id": 22351,
+      "categories": [
+        "sports",
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "coup de poêle à frire cartoonesque",
+      "short": "coup de poêle à frire cartoonesque",
+      "id": 22321,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "accélération, dérapage, carambolage",
+      "short": "accélération, dérapage, carambolage",
+      "id": 22350,
+      "categories": [
+        "vehicle"
+      ]
+    },
+    {
+      "x": false,
+      "name": "buzzer “faux” dans un jeu TV",
+      "short": "buzzer “faux” dans un jeu TV",
+      "id": 22345,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "cri d'une buse",
+      "short": "cri d'une buse",
+      "id": 22306,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "clochette de vélo",
+      "short": "clochette de vélo",
+      "id": 22287,
+      "categories": [
+        "alarm",
+        "household"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bébé qui pleure",
+      "short": "bébé qui pleure",
+      "id": 22267,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "x": false,
+      "name": "sonnette électrique “buzz”",
+      "short": "sonnette électrique “buzz”",
+      "id": 22343,
+      "categories": [
+        "alarm"
+      ]
+    },
+    {
+      "x": false,
+      "name": "son d'une bombe larguée par avion",
+      "short": "son d'une bombe larguée par avion",
+      "id": 22317,
+      "categories": [
+        "explosion",
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gazouillis d'oiseau",
+      "short": "gazouillis d'oiseau",
+      "id": 22307,
+      "categories": [
+        "Animal"
+      ]
+    },
+    {
+      "x": false,
+      "name": "boing (cartoon)",
+      "short": "boing (cartoon)",
+      "id": 22316,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "rebondissements “boing”",
+      "short": "rebondissements “boing”",
+      "id": 22315,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "gazouillis d'un canari",
+      "short": "gazouillis d'un canari",
+      "id": 22304,
+      "categories": [
+        "Animal",
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "saut bionique au ralenti",
+      "short": "saut bionique au ralenti",
+      "id": 22302,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ballon qui gonfle & explose",
+      "short": "ballon qui gonfle & explose",
+      "id": 22272,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "lames frottées l'une contre l'autre",
+      "short": "lames frottées l'une contre l'autre",
+      "id": 22313,
+      "categories": [
+        "violence"
+      ]
+    },
+    {
+      "x": false,
+      "name": "bref rot",
+      "short": "bref rot",
+      "id": 22286,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "ballon qui se dégonfle",
+      "short": "ballon qui se dégonfle",
+      "id": 22276,
+      "categories": [
+        "cartoon"
+      ]
+    },
+    {
+      "x": false,
+      "name": "glissando au glockenspiel",
+      "short": "glissando au glockenspiel",
+      "id": 22298,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "long rot mouillé",
+      "short": "long rot mouillé",
+      "id": 22285,
+      "categories": [
+        "bodily functions"
+      ]
+    },
+    {
+      "x": false,
+      "name": "fin d'une chanson au banjo",
+      "short": "fin d'une chanson au banjo",
+      "id": 22280,
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "x": false,
+      "name": "lit qui grince",
+      "short": "lit qui grince",
+      "id": 22283,
+      "categories": [
+        "household",
+        "sexual"
+      ]
+    }
+  ]
+}
