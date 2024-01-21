@@ -6,7 +6,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 
 | Jeu | Textes du jeu | Fichiers internes (images, polices, etc) |  Site internet (https://laboxdejack.fr/) | Doublage | Crédits |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Earwax | ❌ | ❌ | ❌ | ❌ | |
+| Earwax | ✅ | ❌ | ❌ | ❌ | brendaverasoie |
 | Fibbage 2  | ❌ | ❌ | ❌ | ❌ | | 
 | Bidiots  | ✅ | ❌ | ✅ | ❌ | the_sign_painter et [Alexis](https://github.com/AlexisL61) |
 | Quiplash | ❌ | ❌ | ❌ | ❌ | |
