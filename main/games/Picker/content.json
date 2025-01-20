@@ -7,7 +7,7 @@
           "players": "2-8 JOUEURS",
           "family": true,
           "audience": true,
-          "description": "Plus de fibbage ! Mentez à vos amis, évitez leurs mensonges et découvrez la vérité. “En Arizona, vous devez obtenir un permis pour nourrir les cochons avec ______.” Aller!",
+          "description": "Mentez à vos amis, évitez leurs mensonges et découvrez la vérité. “En Arizona, vous devez obtenir un permis pour nourrir les cochons avec ______.”",
           "video": "videos/fibbage2"
       },
       {
@@ -27,7 +27,7 @@
           "players": "3-6 JOUEURS",
           "family": false,
           "audience": false,
-          "description": "Surenchérissez sur vos adversaires pour des œuvres d'art absurdes – dessinées par les joueurs eux-mêmes – et remportez ce jeu d'enchères étrangement compétitif ! Ne soyez pas un bidiot !",
+          "description": "Surenchérissez sur vos adversaires pour des oeuvres d'art absurdes, dessinées par les joueurs eux-mêmes et remportez ces enchères étrangement compétitif !",
           "video": "videos/auction"
       },
       {
@@ -47,7 +47,7 @@
           "players": "1-4 JOUEURS",
           "family": false,
           "audience": false,
-          "description": "Bienvenue chez Bomb Corp. Les stagiaires de votre espèce doivent aider à désamorcer les bombes dans notre bureau. C'est un bureau étrange rempli de bombes... Appuyez simplement sur Démarrer.",
+          "description": "Chez Bomb Corp. Les stagiaires de votre espèce doivent aider à désamorcer les bombes dans notre bureau. C'est un bureau étrange rempli de bombes...",
           "video": "videos/bombinterns"
       }
   ]
