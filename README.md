@@ -8,7 +8,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Earwax | ✅ | ❌ | ❌ | ❌ | brendaverasoie |
 | Fibbage 2  | ❌ | ❌ | ❌ | ❌ | | 
-| Bidiots  | ✅ | ❌ | ✅ | ❌ | the_sign_painter et [Alexis](https://github.com/AlexisL61) |
+| Bidiots  | ✅ | ✅ | ✅ | ❌ | the_sign_painter, [Alexis](https://github.com/AlexisL61) & [Lamisedaxeh](https://github.com/Lamisedaxeh) |
 | Quiplash | ❌ | ❌ | ❌ | ❌ | |
 | Bomb corp | ✅ | ✅ | ✅ | ❌ | [Alexis](https://github.com/AlexisL61) |
 
